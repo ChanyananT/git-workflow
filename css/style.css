@@ -1,8 +1,22 @@
-Body {
-    background-color:aqua;
+body {
+    background-color: salmon;
 }
 
 h1 {
-    color:black;
+    color: white;
     font-size: 60px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    color: blueviolet;
 }
